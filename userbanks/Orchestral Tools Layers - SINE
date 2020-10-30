@@ -1,0 +1,87 @@
+
+//----------------------------------------------------------------------------
+//! g="Orchestral Tools/Layers" n="Full Orchestra"
+Bank 52 1 Full Orchestra
+
+//! c=long-light i=note-whole o=cc:70,0
+1 Chords Maj Sustains
+//! c=long-light i=note-whole o=cc:70,15
+2 Chords Min Sustains
+//! c=long-light i=note-whole o=cc:70,30
+3 Chords Sus4 Sustains
+//! c=short-dark i=staccato o=cc:70,45
+4 Chords Maj Staccato
+//! c=short-dark i=staccato o=cc:70,60
+5 Chords Min Staccato
+//! c=short-dark i=staccato o=cc:70,75
+6 Chords Sus4 Staccato
+//! c=long-light i=note-whole o=cc:70,90
+7 Sustains Low Unison
+//! c=short-dark i=staccato o=cc:70,105
+8 Staccato Low Unison
+
+
+//----------------------------------------------------------------------------
+//! g="Orchestral Tools/Layers" n="Woodwinds"
+Bank 52 2 Woodwinds
+
+//! c=long-light i=note-whole o=cc:70,0
+1 Chords Maj Sustains
+//! c=long-light i=note-whole o=cc:70,15
+2 Chords Min Sustains
+//! c=long-light i=note-whole o=cc:70,30
+3 Chords Sus4 Sustains
+//! c=short-dark i=staccato o=cc:70,45
+4 Chords Maj Staccato
+//! c=short-dark i=staccato o=cc:70,60
+5 Chords Min Staccato
+//! c=short-dark i=staccato o=cc:70,75
+6 Chords Sus4 Staccato
+//! c=long-light i=note-whole o=cc:70,90
+7 Sustains Low Unison
+//! c=short-dark i=staccato o=cc:70,105
+8 Staccato Low Unison
+
+
+//----------------------------------------------------------------------------
+//! g="Orchestral Tools/Layers" n="Brass"
+Bank 52 3 Brass
+
+//! c=long-light i=note-whole o=cc:70,0
+1 Chords Maj Sustains
+//! c=long-light i=note-whole o=cc:70,15
+2 Chords Min Sustains
+//! c=long-light i=note-whole o=cc:70,30
+3 Chords Sus4 Sustains
+//! c=short-dark i=staccato o=cc:70,45
+4 Chords Maj Staccato
+//! c=short-dark i=staccato o=cc:70,60
+5 Chords Min Staccato
+//! c=short-dark i=staccato o=cc:70,75
+6 Chords Sus4 Staccato
+//! c=long-light i=note-whole o=cc:70,90
+7 Sustains Low Unison
+//! c=short-dark i=staccato o=cc:70,105
+8 Staccato Low Unison
+
+
+//----------------------------------------------------------------------------
+//! g="Orchestral Tools/Layers" n="Strings"
+Bank 52 4 Strings
+
+//! c=long-light i=note-whole o=cc:70,0
+1 Chords Maj Sustains
+//! c=long-light i=note-whole o=cc:70,15
+2 Chords Min Sustains
+//! c=long-light i=note-whole o=cc:70,30
+3 Chords Sus4 Sustains
+//! c=short-dark i=staccato o=cc:70,45
+4 Chords Maj Staccato
+//! c=short-dark i=staccato o=cc:70,60
+5 Chords Min Staccato
+//! c=short-dark i=staccato o=cc:70,75
+6 Chords Sus4 Staccato
+//! c=long-light i=note-whole o=cc:70,90
+7 Sustains Low Unison
+//! c=short-dark i=staccato o=cc:70,105
+8 Staccato Low Unison
